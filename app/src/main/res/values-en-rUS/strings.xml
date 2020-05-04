@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project2 CM</string>
+    <string name="model">Model</string>
+    <string name="year">Year</string>
+    <string name="addElement">Add</string>
+    <string name="listElements">List</string>
+    <string name="error1">Cant add empty elements</string>
+    <string name="error2">The year must have 4 digits</string>
+    <string name="ok">Element added</string>
+</resources>

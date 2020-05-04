@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Proyecto2 CM</string>
+    <string name="model">Modelo</string>
+    <string name="year">Año</string>
+    <string name="addElement">Agregar</string>
+    <string name="listElements">Listar</string>
+    <string-array name="Brands">
+        <item>Volkswagen</item>
+        <item>Nissan</item>
+        <item>Toyota</item>
+        <item>Chevrolet</item>
+    </string-array>
+    <string name="error1">No puede haber elementos en blanco</string>
+    <string name="error2">El año debe tener 4 digitos</string>
+    <string name="ok">Elemento Agregado</string>
+</resources>
