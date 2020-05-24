@@ -19,27 +19,23 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/tvModel"
+            android:id="@+id/tvName"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/model" />
+            android:layout_height="wrap_content" />
 
         <TextView
-            android:id="@+id/titleTv"
-            android:text="Title"
+            android:id="@+id/tvProvider"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <TextView
-            android:id="@+id/tvYear"
+            android:id="@+id/tvPrice"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/year" />
+            android:layout_height="wrap_content" />
 
         <TextView
-            android:id="@+id/descTv"
-            android:text="Description"
+            android:id="@+id/tvDelivery"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>

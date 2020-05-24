@@ -1,16 +1,13 @@
 <resources>
-    <string name="app_name" translatable="false">Proyecto2 CM</string>
-    <string name="model">Modelo</string>
-    <string name="year">Año</string>
-    <string name="addElement">Agregar</string>
-    <string name="listElements">Listar</string>
+    <string name="app_name">Proyecto3 CM</string>
     <string-array name="Brands">
         <item>Volkswagen</item>
         <item>Nissan</item>
         <item>Toyota</item>
         <item>Chevrolet</item>
     </string-array>
-    <string name="error1">No puede haber elementos en blanco</string>
-    <string name="error2">El año debe tener 4 digitos</string>
-    <string name="ok">Elemento Agregado</string>
+    <string name="price">Precio:</string>
+    <string name="delivery">Envío:</string>
+    <string name="urlDescription" translatable="false">https://www.serverbpw.com/cm/2020-2/product_detail.php?id=</string>
+    <string name="urlProducts" translatable="false">https://www.serverbpw.com/cm/2020-2/products.php</string>
 </resources>

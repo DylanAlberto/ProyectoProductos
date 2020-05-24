@@ -1,11 +1,9 @@
-package com.example.project2cm
+package com.example.project3cm
 
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.AdapterView
 import android.widget.ListView
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 
